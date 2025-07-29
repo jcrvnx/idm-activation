@@ -419,7 +419,7 @@ choice /C:123450 /N
 set _erl=%errorlevel%
 
 if %_erl%==6 exit /b
-if %_erl%==5 start https://github.com/jcrvnx/idm-activation & start https://massgrave.dev/idm-activation-script & goto MainMenu
+if %_erl%==5 start https://github.com/jcrvnx/idm-activation & goto MainMenu
 if %_erl%==4 start https://www.internetdownloadmanager.com/download.html & goto MainMenu
 if %_erl%==3 goto _reset
 if %_erl%==2 (set frz=0&goto :_activate)
