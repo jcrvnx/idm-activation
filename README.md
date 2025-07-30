@@ -50,15 +50,6 @@ The script offers multiple activation methods and comprehensive registry managem
 ### Current Maintainer
 - **[Jcrist Vincent Orhen](https://github.com/jcrvnx)** - Fork maintainer and active developer
 
-### Contributors
-- **Open Source Community** - Bug reports, feature requests, and improvements
-- **Testing Community** - Multi-platform testing and validation
-
-### Acknowledgments
-- **Internet Download Manager** - The target software for this tool
-- **Windows Community** - Ongoing support and feedback
-- **Open Source Projects** - Inspiration and technical guidance
-
 ## License
 
 This project is **open source** and available under appropriate open source licensing. Please respect the original creator's work and contribute positively to the community.
