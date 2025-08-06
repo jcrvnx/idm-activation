@@ -69,4 +69,4 @@ This project is **open source** and available under appropriate open source lice
 
 ---
 
-*Last updated: July 30, 2025 | Version: 1.5* 
+*Last updated: July 30, 2025 | Version: 1.6* 
